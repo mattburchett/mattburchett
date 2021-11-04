@@ -16,7 +16,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattburchett&show_icons=true&theme=highcontrast)](https://github.com/mattburchett)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattburchett&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/mattburchett)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattburchett&layout=compact&theme=highcontrast)](https://github.com/mattburchett)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattburchett&theme=highcontrast)](https://wakatime.com/@mattburchett)
