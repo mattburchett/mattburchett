@@ -1,5 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/-Matt_Burchett-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matt-burchett-3b562761/)
 [![Twitter](https://img.shields.io/badge/-mattburchett-black?style=for-the-badge&logo=twitter)](https://twitter.com/mattburchett)
+[![wakatime](https://wakatime.com/badge/user/34adf336-ebbc-4f3a-97b9-7cf26368dd8e.svg)](https://wakatime.com/@34adf336-ebbc-4f3a-97b9-7cf26368dd8e)
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visualstudiocode)
